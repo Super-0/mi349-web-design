@@ -1,24 +1,25 @@
-# MI 349 Web Design: Hello World
+# MI 349 Hello World
 
-A small, no-CSS Hello World webpage created for the MI 349 Web Design lab.
+This is my Hello World project for MI 349. The goal of this lab was to practice creating a basic HTML page, using Git and GitHub, and deploying a website with Netlify.
 
-## Contents
+I kept the page CSS-free like the assignment required, but added some extra HTML elements and metadata to make the page more complete.
 
-- `index.html` — the complete HTML5 webpage
+## Things I Added
 
-## What the page demonstrates
-
-- A standard HTML5 document structure
-- Semantic `header`, `main`, `section`, and `footer` elements
-- A page title, responsive viewport metadata, and a descriptive metadata tag
-- Content organized with headings, paragraphs, and a list
-
-## Viewing locally
-
-Open `index.html` in a web browser.
+- Multiple headings, paragraphs, and a list
+- A link to a random Wikipedia page
+- HTML5 semantic elements
+- Viewport and description metadata
+- Comments explaining the metadata in the `<head>`
+- A custom page title
 
 ## Deployment
 
-The final version is deployed through Netlify:
+The site is deployed using Netlify.
 
-https://mi349-hello-world-super0.netlify.app
+Live site:  
+https://mi349-hello-world-super0.netlify.app/
+
+## What I Learned
+
+This lab helped me get more comfortable with the basic workflow of editing a site in VS Code, committing changes with Git, pushing them to GitHub, and then deploying the finished page online.
