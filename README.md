@@ -19,4 +19,6 @@ Open `index.html` in a web browser.
 
 ## Deployment
 
-The final version is deployed through Netlify. The public URL will be added here after deployment.
+The final version is deployed through Netlify:
+
+https://mi349-hello-world-super0.netlify.app
