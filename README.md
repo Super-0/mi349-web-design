@@ -2,16 +2,23 @@
 
 This is my Hello World project for MI 349. The goal of this lab was to practice creating a basic HTML page, using Git and GitHub, and deploying a website with Netlify.
 
-I kept the page CSS-free like the assignment required, but added some extra HTML elements and metadata to make the page more complete.
+I kept the page CSS-free as the assignment required, while adding a few extra HTML elements and metadata to make the page feel complete.
 
 ## Things I Added
 
 - Multiple headings, paragraphs, and a list
-- A link to a random Wikipedia page
-- HTML5 semantic elements
-- Viewport and description metadata
-- Comments explaining the metadata in the `<head>`
+- A personal photo with alt text and a caption
+- A favicon
+- A link to a random Wikipedia article
+- Character encoding, viewport, description, and author metadata
+- Comments that explain the metadata in the `<head>`
 - A custom page title
+
+## Files
+
+- `index.html` — the webpage
+- `favicon.png` — the browser-tab icon
+- `images/ben-and-mei-in-japan.jpg` — the photo displayed on the page
 
 ## Deployment
 
